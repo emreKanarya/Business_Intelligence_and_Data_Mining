@@ -1,1 +1,1 @@
-# -Zekasi-ve-Veri-Madenciligi
+# Is-Zekasi-ve-Veri-Madenciligi
